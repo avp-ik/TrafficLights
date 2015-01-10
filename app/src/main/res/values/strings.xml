@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrafficLights</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="redColor_en">Red</string>
+    <string name="greenColor_en">Green</string>
+    <string name="yellowColor_en">Yellow</string>
+
+</resources>
